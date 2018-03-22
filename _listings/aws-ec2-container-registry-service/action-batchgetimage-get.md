@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=BatchGetImage&k=1:
+  /?Action=BatchGetImage:
     get:
       summary: ' Batch Get Image '
       description: Gets detailed information for specified images within a specified

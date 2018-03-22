@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=CompleteLayerUpload&k=1:
+  /?Action=CompleteLayerUpload:
     get:
       summary: ' Complete Layer Upload '
       description: Inform Amazon ECR that the image layer upload for a specified registry,

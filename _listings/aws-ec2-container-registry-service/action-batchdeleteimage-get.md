@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=BatchDeleteImage&k=1:
+  /?Action=BatchDeleteImage:
     get:
       summary: ' Batch Delete Image '
       description: Deletes a list of specified images within a specified repository

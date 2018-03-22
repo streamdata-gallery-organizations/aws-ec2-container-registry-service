@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=GetAuthorizationToken&k=1:
+  /?Action=GetAuthorizationToken:
     get:
       summary: ' Get Authorization Token '
       description: Retrieves a token that is valid for a specified registry for 12

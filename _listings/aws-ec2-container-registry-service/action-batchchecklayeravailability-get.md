@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=BatchCheckLayerAvailability&k=1:
+  /?Action=BatchCheckLayerAvailability:
     get:
       summary: ' Batch Check Layer Availability '
       description: Check the availability of multiple image layers in a specified

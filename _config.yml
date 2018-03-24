@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: aws-ec2-container-registry-service.api.streamdata.gallery
+title: Streamdata Gallery AWS EC2 Container Registry Service
+url: aws-ec2-container-registry-service.streamdata.gallery
 tag: AWS EC2 Container Registry Service
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: aws-ec2-container-registry-service
 github_branch: master
 collections:

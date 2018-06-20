@@ -1,37 +1,18 @@
 ---
-name: AWS EC2 Container Registry Service
-x-slug: aws-ec2-container-registry-service
-description: Amazon EC2 Container Registry (ECR) is a fully-managedDockercontainer
-  registry that makes it easy for developers to store, manage, and deploy Docker container
-  images. Amazon ECR is integrated withAmazon EC2 Container Service (ECS), simplifying
-  your development to production workflow. Amazon ECR eliminates the need to operate
-  your own container repositories or worry about scaling the underlying infrastructure.
-  Amazon ECR hosts your images in a highly available and scalable architecture, allowing
-  you to reliably deploy containers for your applications. Integration with AWS Identity
-  and Access Management (IAM) provides resource-level control of each repository.
-  With Amazon ECR, there are no upfront fees or commitments. You pay only for the
-  amount of data you store in your repositories and data transferred to the Internet.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
-x-kinRank: "10"
-x-alexaRank: ""
-tags: AWS EC2 Container Registry Service
-created: "2018-05-24"
-modified: "2018-05-24"
-url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-ec2-container-registry-service/master/_listings/aws-ec2-container-registry-service/apis.md
+name: Streadata.io API Gallery - AWS EC2 Container Registry Service
+description: This is a repository of aws ec2 container registry service APIs, self-contained
+  as a Github repository, with HTML and YAML representations of the APIs and their
+  surrounding operations.
+image: http://template.streamdata.gallery/assets/aws-ec2-container-registry-service.png
+created: "2018-02-24"
+modified: "2018-06-20"
+url: http://aws-ec2-container-registry-service.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
-x-common:
-- type: x-documentation
-  url: http://docs.aws.amazon.com/AmazonECR/latest/APIReference/Welcome.html
-- type: x-faq
-  url: https://aws.amazon.com/ecr/faqs/
-- type: x-getting-started
-  url: https://aws.amazon.com/ecr/getting-started/
-- type: x-pricing
-  url: https://aws.amazon.com/ecr/pricing/
-- type: x-website
-  url: https://aws.amazon.com/ecr/
-include: []
+tags: AWS EC2 Container Registry Service
+include:
+- name: AWS EC2 Container Registry Service
+  url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-ec2-container-registry-service/master/_listings/aws-ec2-container-registry-service/apis.yaml
 maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist

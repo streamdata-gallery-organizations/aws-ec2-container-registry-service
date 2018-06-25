@@ -5,7 +5,7 @@ description: This is a repository of aws ec2 container registry service APIs, se
   surrounding operations.
 image: http://template.streamdata.gallery/assets/aws-ec2-container-registry-service.png
 created: "2018-02-24"
-modified: "2018-06-20"
+modified: "2018-06-25"
 url: http://aws-ec2-container-registry-service.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
